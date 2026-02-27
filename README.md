@@ -38,9 +38,9 @@ The system operates without an operating system, relying on direct hardware cont
 
 ## 🔧 Hardware Components
 
-- Microcontroller (e.g., TM4C123 / STM32 / AVR)
+- Microcontroller TM4C123
 - 4x4 Matrix Keypad
-- 16x2 LCD (HD44780 compatible)
+- 16x2 LCD 
 - GPIO-based interface
 - Development board & regulated power supply
 
